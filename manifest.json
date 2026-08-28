@@ -1,0 +1,19 @@
+{
+  "name": "赛事策划工作台",
+  "short_name": "赛事台",
+  "description": "赛事策划工作台：赛事时间、参赛人员、赛程安排",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f7f8",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
